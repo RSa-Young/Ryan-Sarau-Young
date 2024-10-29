@@ -7,7 +7,7 @@ url: "https://RSa-Young.github.io"
 baseurl: "/Ryan-Sarau-Young"
 repository: "RSa-Young/Ryan-Sarau-Young"
 header:
-  image: /assets/images/banner-husky.jpg
+  image: /assets/images/thumbnail_24-Ryan_Sarau-Young-02.jpg
 
 include:
   - _pages
@@ -37,13 +37,13 @@ minimal_mistakes_skin: "contrast"
 
 # settings for author profile
 author:
-  name   : "Mission III"
-  avatar : "/assets/images/banner-husky.jpg"
-  bio    : "My name is Mission III, and I am the official Huskie mascot at Northern Illinois University."
+  name   : "Ryan Sarau-Young"
+  avatar : "/assets/images/IMG_1073 (1).jpg
+  bio    : "My name is Ryan Sarau-Young, and I am a College Student studying my Bachelor's and Masters simultaneously. I am looking for an internship primarily focusing on data analytics."
   location: "DeKalb, Illinois"
-  github : 
-  linkedin: "school/northern-illinois-university" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
-  email  : 
+  github : "RSa-Young"
+  linkedin: "ryan-sarau-young-057314195"
+  email  : "/assets/images/IMG_1073 (1).jpg"
 
 
 # # comments by disqus
