@@ -1,11 +1,11 @@
 # Configs
 
-title: "Jekyll Profile"
-name: "A Free Job Market Profile in Jekyll"
-email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "ECON-691/Jekyll-for-Job-Market"
+title: "Ryan Sarau-Young"
+name: "Profile for Ryan Sarau-Young"
+email: "sarau712@gmail.com"
+url: "https://RSa-Young.github.io"
+baseurl: "/Ryan-Sarau-Young"
+repository: "RSa-Young/Ryan-Sarau-Young"
 header:
   image: /assets/images/banner-husky.jpg
 
